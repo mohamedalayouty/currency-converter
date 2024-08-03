@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family:cursive;
+}
+
+.main {
+    background-image: linear-gradient(to right, black, rgb(12, 12, 12), rgb(158, 156, 156));
+}
+.top {
+    height: 7em;
+}
+.box {
+    background-image: linear-gradient(to bottom, rgb(5, 17, 17), rgb(11, 34, 28));
+}
+input{
+    background-color: rgb(8, 19, 19);
+    outline: 0;
+}
+.inputResult {
+    background-color: rgb(9, 27, 27) !important;
+}
+.icon:hover {
+    cursor: pointer;
+}
+
